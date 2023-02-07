@@ -1,5 +1,7 @@
 # 欢迎来到 Lean 的 LEDE 源码仓库
 
+修正了部分错误
+
 如何编译自己需要的 LEDE 固件 [How to build your LEDE firmware](./README_EN.md)
 
 ## 官方讨论群
